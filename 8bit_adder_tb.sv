@@ -6,7 +6,7 @@
 // Class: CPE 5350, 2026, Dr. Danowitz
 // I needed to add the \ in the module name because I started it with an 8
 
-module \8bit_adder_tb ;
+module adder_8bit_tb ;
 
     localparam int WIDTH = 8;
     localparam int VALUES = 1 << WIDTH;
