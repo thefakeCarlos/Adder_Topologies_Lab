@@ -7,7 +7,7 @@
 //
 // Run separately with WIDTH = 16, 32, 64
 module parameterized_adder_tb #(
-    parameter int WIDTH = 16,
+    parameter int WIDTH = 64,
     parameter int RANDOM_CASES = 5000,
     parameter int SEED = 12345
 );

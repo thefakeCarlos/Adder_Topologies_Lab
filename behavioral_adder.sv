@@ -5,7 +5,7 @@
 // Organzation: Cal Poly Slo
 // Class: CPE 5350, 2026, Dr. Danowitz
 
-module behavioral_adder #(parameter int WIDTH = 8) ( // Default Width is 8-bits, this can be changed in instantiation using behavioral_adder #(.WIDTH(16)) my_adder
+module behavioral_adder #(parameter int WIDTH = 64) ( // Default Width is 8-bits, this can be changed in instantiation using behavioral_adder #(.WIDTH(16)) my_adder
         input wire [WIDTH-1:0]A,
         input wire [WIDTH-1:0]B,
         input wire Cin,            // Carry in
