@@ -1,0 +1,11 @@
+DESIGN_NAME: tree_adder
+VERILOG_FILES:
+  - "./tree_adder.sv"
+
+PDK: sky130A
+STD_CELL_LIBRARY: sky130_fd_sc_hd
+
+CLOCK_PORT: clk
+CLOCK_PERIOD: 10
+
+USE_SLANG: true

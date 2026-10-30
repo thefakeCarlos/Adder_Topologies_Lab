@@ -1,0 +1,29 @@
+91. Printing statistics.
+
+=== tree_adder ===
+
+        +----------Local Count, excluding submodules.
+        | 
+      164 wires
+      209 wire bits
+        5 public wires
+       50 public wire bits
+        5 ports
+       50 port bits
+      176 cells
+       65   $_ANDNOT_
+        4   $_AND_
+       12   $_NAND_
+       19   $_NOR_
+       44   $_OR_
+       17   $_XNOR_
+       15   $_XOR_
+
+   Area for cell type $_ANDNOT_ is unknown!
+   Area for cell type $_AND_ is unknown!
+   Area for cell type $_NAND_ is unknown!
+   Area for cell type $_NOR_ is unknown!
+   Area for cell type $_OR_ is unknown!
+   Area for cell type $_XNOR_ is unknown!
+   Area for cell type $_XOR_ is unknown!
+

@@ -1,0 +1,9 @@
+{
+    "json_h": "/home/thefakecarlos/code/2lab_5350/runs/RUN_2026-10-28_13-16-28/05-yosys-jsonheader/tree_adder.h.json",
+    "metrics": {
+        "design__lint_error__count": 0,
+        "design__lint_timing_construct__count": 0,
+        "design__lint_warning__count": 0,
+        "design__inferred_latch__count": 0
+    }
+}
